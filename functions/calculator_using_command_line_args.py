@@ -24,3 +24,5 @@ else:
     print("invalid operation")
 
 
+# py calculator_using_command_line_args.py  2 add 2
+# 4.0        ----------> is the output
